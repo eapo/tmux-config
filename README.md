@@ -22,7 +22,7 @@ own, submit it to [awesome-tmux-configs](https://github.com/tony/awesome-tmux-co
 Download:
 
 ```bash
-git clone --recursive https://github.com/tony/tmux-config.git ~/.tmux
+git clone --recursive https://github.com/eapo/tmux-config.git ~/.tmux
 ```
 
 Copy tmux config to home:
